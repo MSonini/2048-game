@@ -1,0 +1,7 @@
+.root {
+  margin: 20px auto;
+  width: 410px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}

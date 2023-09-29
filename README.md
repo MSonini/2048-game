@@ -1,4 +1,1 @@
-# 2048-game
-
-Игра 2048 сделанная с помощью React и redux
-
+My implementation of famous game "2048" with React and Redux.
